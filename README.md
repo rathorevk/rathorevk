@@ -1,5 +1,5 @@
 
-**Hi, I'm Vikram** 🔗
+# Hi, I'm Vikram
 
 <!---
 rathorevk/rathorevk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
