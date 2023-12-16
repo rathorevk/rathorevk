@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathorevk&label=Profile%20views&color=0e75b6&style=flat" alt="rathorevk" /> </p>
 
 
-- 🔭 I’m currently working on **Elixir/Phoenix, LiveView, Erlang, Rust and Golang.**
+- 🚀 Currently Crafting with **Elixir/Phoenix, LiveView, Erlang, Rust, and Golang**.
 
 - 📫 How to reach me **rathorevk18@gmail.com**
 
